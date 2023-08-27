@@ -2,3 +2,4 @@ test file content 1
 
 
 adding new line
+add new line 1
