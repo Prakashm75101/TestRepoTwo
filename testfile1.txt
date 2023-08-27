@@ -2,10 +2,6 @@ test file content 1
 
 
 adding new line
-<<<<<<< HEAD
-
 
 add new line 2
-=======
-add new line 1
->>>>>>> 148927ab3fd96025a1aab4c59c24e2dc06761b6f
+
